@@ -1,6 +1,6 @@
-customhost = "gowthamdb.cc24md17kkkm.us-east-2.rds.amazonaws.com"
+customhost = "gowthamdb.c3oecdgctfom.us-east-1.rds.amazonaws.com"
 customuser = "admin"
 custompass = "root1234"
 customdb = "gowthamdb"
 custombucket = "gowtham-us-east"
-customregion = "us-east-2"
+customregion = "us-east-1"
